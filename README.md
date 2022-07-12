@@ -1,2 +1,2 @@
-# MyProject abc
+# MyProject
 Описание проекта
